@@ -13,3 +13,8 @@ Usage
 
 Install the package (.pkg file) of this application using the "Install
 Package Files" menu and run it.
+
+Kudos
+-----
+
+Jaicrab and ps3mrenigma for their work in "Alejandro".

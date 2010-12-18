@@ -14,3 +14,11 @@ Uso
 
 Instala el paquete (fichero .pkg) de esta aplicacion a traves del menu
 "Install Package Files" y ejecutala para montar el nuevo dispositivo flash.
+
+Agradecimientos
+---------------
+
+Jaicrab y ps3mrenigma por su trabajo en "Alejandro".
+
+
+
